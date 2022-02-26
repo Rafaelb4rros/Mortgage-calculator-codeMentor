@@ -15,13 +15,13 @@ Find the project requirements here: [Mortgage calculator web app](https://www.co
 
 ## Challenge requirements
 
-[x] - Set up a React App(Vanilla JS or your favorite framework works too)
-[x] - Users can set purchase prices
-[x] - Users can set down payment
-[x] - Users can set repayment time
-[x] - Users can set interest rate
-[x] - Show users loan amount (purchase price - down payment)
-[x] - Show users the estimated amount they'll pay on a monthly basis
+- [x] Set up a React App(Vanilla JS or your favorite framework works too)
+- [x] Users can set purchase prices
+- [x] Users can set down payment
+- [x] Users can set repayment time
+- [x] Users can set interest rate
+- [x] Show users loan amount (purchase price - down payment)
+- [x] Show users the estimated amount they'll pay on a monthly basis
 
 Formula for mortgage payments: M = P[r(1+r)^n/((1+r)^n)-1)]
 M = the total monthly mortgage payment
