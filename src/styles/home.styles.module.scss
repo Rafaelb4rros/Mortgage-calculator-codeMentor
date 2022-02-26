@@ -1,0 +1,29 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5rem;
+}
+
+.container {
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 5rem;
+
+  div {
+    span {
+      color: var(--gray-400);
+      font-size: 1.5rem;
+    }
+    strong {
+      font-size: 3rem;
+    }
+  }
+}
